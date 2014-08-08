@@ -1,0 +1,43 @@
+EBoard Meeting Minutes
+August 8th, 2014
+--------
+Location: Hill 252
+Time: 3:00 PM
+--------
+Members:
+Present: Harry Stern, Richard Gerdes, Eric Bronner, Shahan Akhter
+Excused: Manny Lopez
+--------
+3:12 PM - Meeting open
+- Harry to run eboard meetings, Manny in absense. Manny to oversee general meetings.
+- Cogs To do list made and shared with eboard: https://docs.google.com/document/d/1SxLitf2zz3iS2NzhCOB2_MnDj65s-OqGYPazBswDYZU/edit
+- Cogs Share in drive
+- To make Cogs instruction Documentation 
+- Meetings:
+	- First meetings tutorial
+	- then teach for first half of the meetings then let members work alone
+	- later maybe less meetings
+- Extra meetings on a different day for just hacking
+- Supplying food: How will we pay
+	- Sponsors?
+- Getting Sponsors
+	- Mostly Harry and Eric
+- Ludum Dare: August 22nd-25th 2014	
+	- Eric: see about getting pizza 
+- Reserve room for Ludum Dare
+- Involvement fair: What are we doing? (September 5th: 2:00pm - 6:00pm) (Shahan is now in charge) (see Google doc)
+- Publicity
+	- Freshmen & Transfers
+	- Flyer (Harry has a friend)
+	- flyers - Harry's Friend Nicole from class who does graphic designs
+	- Where to post: ARC, Hill+annex, SERC, Student Centers, CSB?
+	- Posting it on boards in classes
+- Student Organization Eden accounts
+- Harry knows art people and is going to talk to them about art
+- Separate art meetings? (or them only at some)
+- TIL that being a sys admin is like laying out a room with fine china and then letting a back of monkeys and they start throwing shit everywhere (Lars pretends to be a monkey)
+- First General meetings on September 17th (following the involvement fair)
+- General meeting plans:
+	- Demo game and basics
+- General planning meeting - September 3rd
+4:32pm - Meeting over
